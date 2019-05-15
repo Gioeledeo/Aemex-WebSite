@@ -8,11 +8,16 @@
         <h1>AEMEX Team Sviluppo Corse</h1>
         <ses>Official website of Aemex Preparazioni - TSC</ses>
         <div class="mainArticle">
-        	
+        	<h1>
+        		Prova
+        	</h1>
+        	<p>
+        		sas
+        	</p>
         </div>
 
     </body>
     <footer>
-    	
+    	<p>Diritti riservati</p>
     </footer>
 </html>
