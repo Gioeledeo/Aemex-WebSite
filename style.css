@@ -1,0 +1,11 @@
+background{
+	background-color: black;
+	background-image: all;
+	background-repeat: no-repeat;
+}
+
+div.mainArticle{
+	border-radius: 20px;
+	background-color: white;
+	overflow: auto;
+	}
